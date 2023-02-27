@@ -12,3 +12,4 @@ To set it up for test/demonstration purposes:
 - \q
 
 - pip3 install psycopg2 - to install the Python PostgreSQL libraries
+- pip3 install sqlalchemy==1.4.46
